@@ -1,3 +1,5 @@
+#Just a comment to test conficts. Added in branch confict 
+#2nd comment added in branch conflict
 #!/bin/bash
 # validAlphaNum – проверяет, содержит ли строка только
 # алфавитные и цифровые символы
