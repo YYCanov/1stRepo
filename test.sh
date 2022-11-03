@@ -1,4 +1,5 @@
 #1st comment in main branch
+#2nd  comment in main branch
 #!/bin/bash
 # validAlphaNum – проверяет, содержит ли строка только
 # алфавитные и цифровые символы
