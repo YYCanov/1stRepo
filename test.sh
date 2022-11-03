@@ -22,7 +22,10 @@ fi
 read input
 
 #There is need put an empty input checking
-
+while [[ "$input" == "" ]]; do
+        /bin/echo -n "Enter input: "
+        read input
+done
 
 # Проверка ввода
 if ! validAlphaNum "$input" ; then
