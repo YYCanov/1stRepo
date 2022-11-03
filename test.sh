@@ -21,6 +21,9 @@ fi
 /bin/echo -n "Enter input: "
 read input
 
+#There is need put an empty input checking
+
+
 # Проверка ввода
 if ! validAlphaNum "$input" ; then
         echo "Please enter only letters and numbers." >&2
